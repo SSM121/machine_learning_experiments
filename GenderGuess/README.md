@@ -8,3 +8,9 @@ if you run main.py it will produce graphs and statistics for the 3 (or 4) differ
 solutions. The 4th is commented out due to very poor performance on my host machine. (10 minutes for a single test over the csv file) 
 so I did not want to run that long test over 50 iterations. You can change the config.py file to alter how the tests are
 ran. 
+
+##Preqreuesites
+1. python 3.5 or later
+2. matplotlib
+3. numpy
+4. sklearn
